@@ -1,6 +1,6 @@
 My Stack: <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GDScript](https://img.shields.io/badge/godotengine-3670A0?style=for-the-badge&logo=godotengine&logoColor=729bb3)
+![GDScript](https://img.shields.io/badge/gdscript-3670A0?style=for-the-badge&logo=godotengine&logoColor=729bb3)
 
 
 
